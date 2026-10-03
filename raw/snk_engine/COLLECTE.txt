@@ -1,3 +1,0 @@
-source: https://github.com/oscarmedra/snk_engine/archive/refs/heads/main.zip
-date: 2026-10-02
-licence: CC BY 4.0
