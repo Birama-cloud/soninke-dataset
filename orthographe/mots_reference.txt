@@ -1,0 +1,34 @@
+# Mots de référence : forme écrite -> forme normalisée
+#
+# Mode d'emploi :
+#   - La forme de gauche est le mot APRÈS les règles automatiques
+#     (sans accents, « gu » devenu « g », « ss » devenu « s »).
+#   - Une ligne qui finit par « ? » est une proposition : elle n'est PAS appliquée.
+#   - Si la proposition est juste, enlève le « ? ». Si elle est fausse, corrige-la.
+#   - Tu peux ajouter autant de lignes que tu veux.
+
+# --- Validé ---
+france -> France
+lenei -> lenki        # faute de frappe (lénèi)
+
+# --- Le son « gn » écrit « ni » : à confirmer ---
+nia -> ña
+niaa -> ña
+niaani -> ñaani
+niiani -> ñaani
+niame -> ñame
+niaxe -> ñaxe
+niexe -> ñaxe       # ou ñexe : quelle voyelle dis-tu ?
+
+# --- Le son « ng » : à confirmer ---
+nga -> ŋa
+
+# --- Le son « dj » écrit « di » : à confirmer ---
+dionko -> jonko
+diofe -> jofe
+
+# --- Un même mot, plusieurs écritures : choisis la forme ---
+fayi -> faay       # tu écris faay (5 fois), fayi (1), faayi (1)
+faayi -> faayi
+mine -> mine       # « où » : mina ou mine ?
+mine-> mina

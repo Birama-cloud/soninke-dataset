@@ -1,0 +1,8 @@
+# Lot 000 : phrases données pendant la mise en place du projet.
+
+fr: Ce soir, ma mère prépare le repas.
+snk: Lenki lélé, n'ma yan soréné.
+snk: Lenki lélé, n'ma yani yaraxate sorono.
+
+fr: Je vais là-bas tous les jours.
+snk: Kotasu n'tela doono

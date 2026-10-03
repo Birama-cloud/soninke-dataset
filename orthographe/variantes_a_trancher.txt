@@ -1,0 +1,12 @@
+# Mots écrits de plusieurs façons (nombre d'occurrences entre parenthèses).
+# Choisis une forme et ajoute la ligne dans mots_reference.txt.
+
+na (91)  naa (1)
+do (64)  doo (1)
+daru (12)  daaru (1)
+ji (4)  jii (2)
+fo (4)  foo (1)
+faamu (2)  famu (1)
+siine (2)  sine (1)
+xore (2)  xooore (1)
+gaagana (1)  gagana (1)

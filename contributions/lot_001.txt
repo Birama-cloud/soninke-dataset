@@ -1,0 +1,166 @@
+# Lot 001 : 50 phrases du quotidien.
+# Écris ta traduction après « snk: ». Laisse vide si tu hésites.
+# Plusieurs façons de dire ? Ajoute une autre ligne « snk: » en dessous.
+# Si le français ne correspond pas exactement à ce que tu écris, corrige la ligne « fr: ».
+
+## Salutations
+
+fr: Bonjour, comment vas-tu ?
+snk: an wuy jamu, anmoxo ?
+
+fr: Je vais bien, merci.
+snk: ma jamu, an do barajé.
+
+fr: Comment va ta famille ?
+snk: an ka du n'ko moxo ?
+
+fr: Tout le monde va bien.
+snk: a suy jamu.
+
+fr: Comment t'appelles-tu ?
+snk: an toxo ?
+
+fr: Je m'appelle Moussa.
+snk: n'toxo Moussa.
+
+fr: D'où viens-tu ?
+snk: an baka mina ?
+
+fr: Je viens de Bakel.
+snk: n'ké guiri Bakel.
+
+fr: Sois le bienvenu.
+snk: an na bismillah.
+
+fr: À demain.
+snk: oy xumbané.
+
+## Famille
+
+fr: Mon père est au champ.
+snk: m'paba faay guné.
+
+fr: Ma mère est à la maison.
+snk: n'ma faay o ka.
+
+fr: J'ai deux frères et une sœur.
+snk: guidan yigo fili ado guidan yaxaré bané yi maxa.
+
+fr: Mon grand frère vit en France.
+snk: n'guida fayi france.
+
+fr: Les enfants jouent dehors.
+snk: lemunu m'payi sangana sella.
+
+fr: Ma grand-mère raconte une histoire.
+snk: mama faayi taali kono.
+
+fr: Où est ton père ?
+snk: an m'paba xa ?
+
+fr: Ma sœur s'est mariée l'année dernière.
+snk: n'guida yaxaré a yéxi yeru.
+
+## Maison et repas
+
+fr: J'ai faim.
+snk: dulé nia ni nga.
+
+fr: J'ai soif.
+snk: daxu nia ni nga.
+
+fr: Donne-moi de l'eau.
+snk: jii n'ki ni nga.
+
+fr: Le repas est prêt.
+snk: yigandé niamé.
+
+fr: Viens manger.
+snk: yeli yigué.
+
+fr: Nous mangeons du riz aujourd'hui.
+snk: o faay maro n'do niéxé nia yigana.
+
+fr: Elle puise de l'eau au puits.
+snk: a faay jii niaa wutu gadé nga.
+
+fr: Ferme la porte.
+snk: falaké n'taxé.
+
+fr: Je suis fatigué, je vais dormir.
+snk: n'tampi, m'payi telé saxu.
+
+## Marché
+
+fr: Je vais au marché.
+snk: m'payi telé saxa.
+
+fr: Combien coûte ce poisson ?
+snk: ké niaxé xobé né mani mé ?
+
+fr: C'est trop cher.
+snk: ké xoté niaani.
+
+fr: Baisse le prix.
+snk: fo bégué dionko ké.
+
+fr: Je veux acheter du mil.
+snk: na mula na yillé nia xobo.
+
+fr: Elle vend des légumes.
+snk: ani yoké misso nia gaagana.
+
+fr: Je n'ai pas d'argent.
+snk: xalissi n'ti maxa.
+
+fr: Il a acheté un mouton.
+snk: adi jexé n'xobo
+
+## Santé
+
+fr: Je suis malade.
+snk: n'towoy ya.
+
+fr: J'ai mal à la tête.
+snk: gnimé niaani wata.
+
+fr: L'enfant a de la fièvre.
+snk: lémini ké faté ké téyé niaani
+
+fr: Il faut aller à l'hôpital.
+snk: an na xawa télé jaaré ka
+
+fr: Où est le médecin ?
+snk: jarandina na ni miné ?
+
+fr: Prends ce médicament.
+snk: ké yitté mini.
+
+fr: Elle va mieux aujourd'hui.
+snk: lénki m'passo.
+
+## Temps et déplacements
+
+fr: Il fait chaud aujourd'hui.
+snk: lénèi teyé niaani.
+
+fr: Il va pleuvoir ce soir.
+snk: lénki lélé kamé taxé na.
+
+fr: Je suis arrivé hier.
+snk: n'diofé daaru
+
+fr: Il partira demain matin.
+snk: awa télé xumbané suxuba.
+
+fr: Nous travaillons au champ.
+snk: o faay goloni soxan téni.
+
+fr: Le village est loin.
+snk: débé ké laaté niiani.
+
+fr: Attends-moi ici.
+snk: n'dugu yeré.
+
+fr: Je ne comprends pas.
+snk: ma faamu.
