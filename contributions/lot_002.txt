@@ -35,25 +35,25 @@ snk: ko fooni ke ka ?
 ## Négation et passé
 
 fr: Je n'ai pas mangé.
-snk: n ke mi yige ?
+snk: n ke mi yige.
 
 fr: Il n'est pas venu hier.
-snk: a ke ma ri daaru ?
+snk: a ke ma ri daaru.
 
 fr: Nous ne partons pas aujourd'hui.
-snk: o n ti tele lenki ?
+snk: o n ti tele lenki.
 
 fr: Elle n'a pas d'enfants.
-snk: a ke reme n ta maxa ?
+snk: a ke reme n ta maxa.
 
 fr: Je ne le connais pas.
-snk: n ke n ta tu ?
+snk: n ke n ta tu.
 
 fr: Ils n'ont pas trouvé l'argent.
-snk: i ku ma xalisi kita ?
+snk: i ku ma xalisi kita.
 
 fr: Tu n'as pas fermé la porte.
-snk: a n ma falaxe taxe ?
+snk: an ma falaxe taxe.
 
 
 
@@ -61,7 +61,7 @@ snk: a n ma falaxe taxe ?
 
 
 fr: Je n'ai rien vu.
-snk: mi fofasu wori ?
+snk: mi fofasu wori.
 
 ## École et travail
 
@@ -104,7 +104,7 @@ fr: Sa main est sale.
 snk: a kite mexente ñani.
 
 fr: Lave-toi les mains.
-snk: a n kitu wanxi.
+snk: an kitu wanxi.
 
 fr: Le vieux est assis sous l'arbre.
 snk: yigo xase ŋa taxunu yite wure ŋa.

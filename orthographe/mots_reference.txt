@@ -42,3 +42,10 @@ jii -> ji
 naa -> na
 doo -> do
 foo -> fo
+ñani -> ñaani
+niani -> ñaani
+falake -> falaxe
+duku -> dugu
+nduguta -> n duguta
+fayi -> faay
+faayi -> faay

@@ -1,3 +1,5 @@
 # Mots écrits de plusieurs façons (nombre d'occurrences entre parenthèses).
 # Choisis une forme et ajoute la ligne dans mots_reference.txt.
 
+yani (3)  yaani (2)
+kara (3)  kaara (1)
