@@ -1,0 +1,171 @@
+# Lot 002 : 50 phrases (questions, négation, passé, descriptions, nombres).
+# Écris ta traduction après « snk: ». Laisse vide si tu hésites.
+# Plusieurs façons de dire ? Ajoute une autre ligne « snk: » en dessous.
+# Si le français ne correspond pas exactement à ce que tu écris, corrige la ligne « fr: ».
+
+## Questions courantes
+
+fr: Qu'est-ce que c'est ?
+snk: mane ni ke ?
+
+fr: Qui est cet homme ?
+snk: ko ni ke yigo ?
+
+fr: Où vas-tu ?
+snk: a n teli mine ?
+
+fr: Quand reviens-tu ?
+snk: a n ñile ne kan dima ?
+
+fr: Pourquoi pleures-tu ?
+snk: a ni mane wuunu ?
+
+fr: Que fais-tu ?
+snk: a ni mane deberini ?
+
+fr: Qu'as-tu dit ?
+snk: a ni mane ko ?
+
+fr: Est-ce que tu parles soninké ?
+snk: a ŋa soninke muku ?
+
+fr: À qui est cette maison ?
+snk: ko fooni ke ka ?
+
+## Négation et passé
+
+fr: Je n'ai pas mangé.
+snk: n ke mi yige ?
+
+fr: Il n'est pas venu hier.
+snk: a ke ma ri daaru ?
+
+fr: Nous ne partons pas aujourd'hui.
+snk: o n ti tele lenki ?
+
+fr: Elle n'a pas d'enfants.
+snk: a ke reme n ta maxa ?
+
+fr: Je ne le connais pas.
+snk: n ke n ta tu ?
+
+fr: Ils n'ont pas trouvé l'argent.
+snk: i ku ma xalisi kita ?
+
+fr: Tu n'as pas fermé la porte.
+snk: a n ma falaxe taxe ?
+
+
+
+
+
+
+fr: Je n'ai rien vu.
+snk: 
+
+## École et travail
+
+fr: Les enfants vont à l'école.
+snk: 
+
+fr: Le maître enseigne aux élèves.
+snk: 
+
+fr: Je sais lire et écrire.
+snk: 
+
+fr: Il cherche du travail.
+snk: 
+
+fr: Elle travaille à Dakar.
+snk: 
+
+fr: J'ai fini mon travail.
+snk: 
+
+fr: Nous allons construire une maison.
+snk: 
+
+fr: Le forgeron fabrique une houe.
+snk: 
+
+## Corps et description
+
+fr: Cet homme est grand.
+snk: 
+
+fr: Cette fille est belle.
+snk: 
+
+fr: L'eau est froide.
+snk: 
+
+fr: Sa main est sale.
+snk: 
+
+fr: Lave-toi les mains.
+snk: 
+
+fr: Le vieux est assis sous l'arbre.
+snk: 
+
+fr: Cette maison est neuve.
+snk: 
+
+fr: Mon ami est très gentil.
+snk: 
+
+## Animaux et champs
+
+fr: La vache boit de l'eau.
+snk: 
+
+fr: Le chien a mordu l'enfant.
+snk: 
+
+fr: Les oiseaux mangent le mil.
+snk: 
+
+fr: Nous avons semé du maïs.
+snk: 
+
+fr: La pluie est tombée cette nuit.
+snk: 
+
+fr: Le fleuve est plein.
+snk: 
+
+fr: Il garde les moutons.
+snk: 
+
+fr: Le cheval court vite.
+snk: 
+
+## Nombres et temps
+
+fr: J'ai trois enfants.
+snk: 
+
+fr: Il a dix vaches.
+snk: 
+
+fr: Elle est restée deux jours.
+snk: 
+
+fr: Je reviens dans une semaine.
+snk: 
+
+fr: Le mois prochain, nous irons au village.
+snk: 
+
+fr: Il est venu ce matin.
+snk: 
+
+fr: Nous nous sommes vus avant-hier.
+snk: 
+
+fr: Je t'attends depuis longtemps.
+snk: 
+
+fr: La fête est dans cinq jours.
+snk: san
