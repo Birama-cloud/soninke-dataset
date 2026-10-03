@@ -61,111 +61,114 @@ snk: a n ma falaxe taxe ?
 
 
 fr: Je n'ai rien vu.
-snk: 
+snk: mi fofasu wori ?
 
 ## École et travail
 
 fr: Les enfants vont à l'école.
-snk: 
+snk: lemunu  m payi tele xara lexe ŋa.
 
 fr: Le maître enseigne aux élèves.
-snk: 
+snk: xaramoxo m payi lemunu xara ŋundi ni.
 
 fr: Je sais lire et écrire.
-snk: 
+snk: lawa sefene ado safandine.
 
 fr: Il cherche du travail.
-snk: 
+snk: a faayi gole ña muru nu.
 
 fr: Elle travaille à Dakar.
-snk: 
+snk: a goli ni Dakaru ya.
 
 fr: J'ai fini mon travail.
-snk: 
+snk: nduguta golini.
 
 fr: Nous allons construire une maison.
-snk: 
+snk: o faayi ka n ña tagana.
 
 fr: Le forgeron fabrique une houe.
-snk: 
+snk: tege m payi yide nia deberini.
 
 ## Corps et description
 
 fr: Cet homme est grand.
-snk: 
+snk: ke yigo gile ñani.
 
 fr: Cette fille est belle.
-snk: 
+snk: ke yaxane farampere niani.
 
 fr: L'eau est froide.
-snk: 
+snk: ke jimule ñani.
 
 fr: Sa main est sale.
-snk: 
+snk: a kite mexente ñani.
 
 fr: Lave-toi les mains.
-snk: 
+snk: a n kitu wanxi.
 
 fr: Le vieux est assis sous l'arbre.
-snk: 
+snk: yigo xase ŋa taxunu yite wure ŋa.
 
 fr: Cette maison est neuve.
-snk: 
+snk: ke ka a kurumba ŋa ni.
 
 fr: Mon ami est très gentil.
-snk: 
+snk: n ke meñange n sire ñaani.
 
 ## Animaux et champs
 
 fr: La vache boit de l'eau.
-snk: 
+snk: na m payi ji mini.
 
 fr: Le chien a mordu l'enfant.
-snk: 
+snk: wule n na lemine xiñi.
 
 fr: Les oiseaux mangent le mil.
-snk: 
+snk: yeliŋu m payi yille n yigana.
 
 fr: Nous avons semé du maïs.
-snk: 
+snk: o di yille n tifi.
 
 fr: La pluie est tombée cette nuit.
-snk: 
+snk: kame n texe lenki wuro.
 
 fr: Le fleuve est plein.
-snk: 
+snk: fanŋe m pagu.
+
+fr: Le fleuve est plein.
+snk: fanŋe ji m pagu.
 
 fr: Il garde les moutons.
-snk: 
+snk: a faayi joxo nagana na.
 
 fr: Le cheval court vite.
-snk: 
+snk: si n jeye ñaani.
 
 ## Nombres et temps
 
 fr: J'ai trois enfants.
-snk: 
+snk: remu siki yaani maxa.
 
 fr: Il a dix vaches.
-snk: 
+snk: na ni tami yaani maxa.
 
 fr: Elle est restée deux jours.
-snk: 
+snk: a taxu yere bito fili.
 
 fr: Je reviens dans une semaine.
-snk: 
+snk: mi ŋa yile rini yere do koye.
 
 fr: Le mois prochain, nous irons au village.
-snk: 
+snk: xaso riye, o wa tele kaara.
 
 fr: Il est venu ce matin.
-snk: 
+snk: a ri yere lenki suxuba.
 
 fr: Nous nous sommes vus avant-hier.
-snk: 
+snk: o di me wori daru me.
 
 fr: Je t'attends depuis longtemps.
-snk: 
+snk: a dala ŋa duku.
 
 fr: La fête est dans cinq jours.
-snk: san
+snk: saŋe ni yere do bito karagi.
