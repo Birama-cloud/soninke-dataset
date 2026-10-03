@@ -32,3 +32,13 @@ fayi -> faay       # tu écris faay (5 fois), fayi (1), faayi (1)
 faayi -> faayi
 mine -> mine       # « où » : mina ou mine ?
 mine-> mina
+daru -> daaru
+famu -> faamu
+gagana -> gaagana
+sine -> siine
+xooore -> xoore
+xore -> xoore
+jii -> ji
+naa -> na
+doo -> do
+foo -> fo
