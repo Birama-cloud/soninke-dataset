@@ -1,0 +1,166 @@
+# Lot 003 : 50 phrases (ordres, sentiments, possession, village, voyage, fêtes).
+# Écris ta traduction après « snk: ». Laisse vide si tu hésites.
+# Plusieurs façons de dire ? Ajoute une autre ligne « snk: » en dessous.
+# Si le français ne correspond pas exactement à ce que tu écris, corrige la ligne « fr: ».
+
+## Demandes et ordres
+
+fr: Assieds-toi.
+snk: taxu.
+
+fr: Lève-toi.
+snk: giri.
+
+fr: Viens ici.
+snk: li yere.
+
+fr: Donne-moi la main.
+snk: an kite kini ŋa.
+
+fr: Parle doucement.
+snk: muli n sefe.
+
+fr: Ne pleure pas.
+snk: ma xa wu.
+
+fr: Aide-moi, s'il te plaît.
+snk: n dema, ti Allah.
+
+fr: Appelle ton frère.
+snk: an gida xiri.
+
+fr: Écoute-moi bien.
+snk: n terinka siri.
+
+## Sentiments et avis
+
+fr: Je suis content.
+snk: n ke sawoya.
+
+fr: Elle est en colère.
+snk: a butu ya.
+
+fr: J'ai peur du chien.
+snk: n ke kana wule ŋa.
+
+fr: Il aime sa femme.
+snk: a wi yaxe mula.
+
+fr: Je n'aime pas le poisson.
+snk: n ke n ti  ñaxe yigana.
+
+fr: C'est bien.
+snk: a siro.
+
+fr: Ce n'est pas vrai.
+snk: toŋu feti.
+
+fr: Je pense qu'il viendra.
+snk: 
+
+fr: Tu as raison.
+snk: 
+
+## Possession et lieux
+
+fr: C'est ma maison.
+snk: 
+
+fr: Ce livre est à moi.
+snk: 
+
+fr: Où est ton téléphone ?
+snk: 
+
+fr: Le couteau est sur la table.
+snk: 
+
+fr: L'enfant est derrière la maison.
+snk: 
+
+fr: Il habite près du fleuve.
+snk: 
+
+fr: Mon champ est grand.
+snk: 
+
+fr: Leur village est petit.
+snk: 
+
+## Vie au village
+
+fr: Les femmes pilent le mil.
+snk: 
+
+fr: Le chef du village a parlé.
+snk: 
+
+fr: Les hommes sont à la mosquée.
+snk: 
+
+fr: Nous avons récolté l'arachide.
+snk: 
+
+fr: Elle porte un seau d'eau sur la tête.
+snk: 
+
+fr: Les jeunes dansent ce soir.
+snk: 
+
+fr: Le marabout enseigne le Coran.
+snk: 
+
+fr: Il a plu toute la nuit.
+snk: 
+
+## Voyage et ville
+
+fr: Je pars en voyage demain.
+snk: 
+
+fr: La voiture est en panne.
+snk: 
+
+fr: Combien coûte le billet ?
+snk: 
+
+fr: La route est mauvaise.
+snk: 
+
+fr: Il est rentré de France.
+snk: 
+
+fr: Je cherche la maison de Samba.
+snk: 
+
+fr: Nous sommes arrivés à Dakar le soir.
+snk: 
+
+fr: Envoie-moi de l'argent.
+snk: 
+
+## Fêtes et vie sociale
+
+fr: Bonne fête.
+snk: 
+
+fr: Que Dieu te bénisse.
+snk: 
+
+fr: Mes condoléances.
+snk: 
+
+fr: Ils se sont mariés hier.
+snk: 
+
+fr: Un enfant est né ce matin.
+snk: 
+
+fr: Nous avons tué un mouton pour la fête.
+snk: 
+
+fr: Salue ta mère pour moi.
+snk: 
+
+fr: Merci beaucoup.
+snk: 

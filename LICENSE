@@ -1,0 +1,58 @@
+Sooninkanxanne : jeu de données ouvert français-soninké
+Copyright (c) 2026 Birama TOGOLA et les contributeurs du projet
+
+
+1. DONNÉES
+----------
+
+Les données de ce dépôt (dossiers contributions/, clean/, normalized/,
+release/ et orthographe/) sont mises à disposition selon les termes de la
+licence Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+Vous êtes libre de partager et d'adapter ces données, pour tout usage, y
+compris commercial, à condition de créditer la source :
+
+    Birama TOGOLA et les contributeurs du projet Sooninkanxanne (2026).
+    Sooninkanxanne : jeu de données ouvert français-soninké.
+    https://github.com/Birama-cloud/soninke-dataset
+
+Texte complet de la licence :
+https://creativecommons.org/licenses/by/4.0/legalcode.fr
+
+
+2. DONNÉES DE TIERS
+-------------------
+
+Une partie des données provient de sources tierces, qui conservent leur
+propre licence et doivent être créditées séparément :
+
+- snk_engine, par noah-medra (2026), licence CC BY 4.0.
+  https://github.com/oscarmedra/snk_engine
+
+La source de chaque ligne est indiquée dans les colonnes « source » et
+« licence » des fichiers de données.
+
+
+3. CODE
+-------
+
+Le code de ce dépôt (dossiers connectors/ et scripts/) est publié sous
+licence MIT :
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
