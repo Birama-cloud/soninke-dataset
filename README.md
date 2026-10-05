@@ -1,8 +1,8 @@
-# Sooninkanxanne : jeu de données ouvert français-soninké
+# OpenSNK : jeu de données ouvert français-soninké
 
-Un jeu de données libre pour faire entrer la langue soninké dans le numérique : des phrases françaises et leur traduction en soninké, rassemblées, uniformisées et publiées pour que chacun puisse entraîner des outils de traduction ou des assistants.
+OpenSNK est le jeu de données du projet Sooninkanxanne. C'est un jeu de données libre pour faire entrer la langue soninké dans le numérique. Il réunit des phrases françaises et leur traduction en soninké, rassemblées, uniformisées et publiées pour que chacun puisse entraîner des outils de traduction ou des assistants.
 
-*English summary: an open French-Soninke parallel dataset (ISO 639-3: snk), built by native speakers for machine translation and language technology. Data under CC BY 4.0.*
+*English summary: OpenSNK is an open French-Soninke parallel dataset (ISO 639-3: snk), built by native speakers for machine translation and language technology. Data under CC BY 4.0.*
 
 ## Pourquoi ce projet
 
@@ -101,7 +101,7 @@ Vous parlez soninké ? Votre aide compte, quel que soit votre village. Il suffit
 
 ```
 Birama TOGOLA et les contributeurs du projet Sooninkanxanne (2026).
-Sooninkanxanne : jeu de données ouvert français-soninké.
+OpenSNK : jeu de données ouvert français-soninké.
 https://github.com/Birama-cloud/soninke-dataset
 ```
 
