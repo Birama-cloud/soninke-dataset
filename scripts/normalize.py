@@ -23,6 +23,7 @@ CLEAN = ROOT / "clean"
 OUT = ROOT / "normalized"
 REFERENCE = ROOT / "orthographe" / "mots_reference.txt"
 REPORT = ROOT / "orthographe" / "variantes_a_trancher.txt"
+DISTINCT = ROOT / "orthographe" / "mots_distincts.txt"
 
 # Règle 1 : pas d'accents. ñ et ŋ ne sont pas touchés.
 ACCENTS = str.maketrans(
@@ -61,6 +62,15 @@ def load_reference() -> dict[str, str]:
         if written and normal:
             reference[written.lower()] = normal
     return reference
+
+
+def load_distinct() -> set[str]:
+    """Mots qui se ressemblent mais sont vraiment différents : à ne pas signaler."""
+    words = set()
+    if DISTINCT.exists():
+        for line in DISTINCT.read_text(encoding="utf-8").splitlines():
+            words.update(line.split("#")[0].lower().split())
+    return words
 
 
 def apply_reference(text: str, reference: dict[str, str]) -> str:
@@ -107,7 +117,9 @@ def main() -> None:
                 f.write(json.dumps(row, ensure_ascii=False) + "\n")
         print(f"{len(rows):>5} lignes -> normalized/{path.name}")
 
-    variants = {k: v for k, v in forms.items() if len(v) > 1}
+    distinct = load_distinct()
+    variants = {k: v for k, v in forms.items()
+                if len(v) > 1 and not set(v) <= distinct}
     lines = ["# Mots écrits de plusieurs façons (nombre d'occurrences entre parenthèses).",
              "# Choisis une forme et ajoute la ligne dans mots_reference.txt.", ""]
     for _, counter in sorted(variants.items(), key=lambda kv: -sum(kv[1].values())):

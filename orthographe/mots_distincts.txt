@@ -1,0 +1,7 @@
+# Mots qui se ressemblent mais sont différents selon le contexte.
+# Le script ne les signale plus dans variantes_a_trancher.txt.
+# Une ligne par groupe de mots, séparés par un espace.
+
+sare saare
+yani yaani
+kara kaara

@@ -49,3 +49,5 @@ duku -> dugu
 nduguta -> n duguta
 fayi -> faay
 faayi -> faay
+kitabe -> kitaabe
+jofe -> joofe

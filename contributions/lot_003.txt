@@ -56,111 +56,111 @@ fr: Ce n'est pas vrai.
 snk: toŋu feti.
 
 fr: Je pense qu'il viendra.
-snk: 
+snk: n cime ye maxa a rina.
 
 fr: Tu as raison.
-snk: 
+snk: ani n toŋu ko.
 
 ## Possession et lieux
 
 fr: C'est ma maison.
-snk: 
+snk: ke ni n ka ña.
 
 fr: Ce livre est à moi.
-snk: 
+snk: ke kitaabe ña fooni.
 
 fr: Où est ton téléphone ?
-snk: 
+snk: ke ni n xirindi kathié nia.
 
 fr: Le couteau est sur la table.
-snk: 
+snk: lebo m payi tablu n kama.
 
 fr: L'enfant est derrière la maison.
-snk: 
+snk: lemine m payi ka m pale.
 
 fr: Il habite près du fleuve.
-snk: 
+snk: a ka m payi  kara ña.
 
 fr: Mon champ est grand.
-snk: 
+snk: n te xooré ñani
 
 fr: Leur village est petit.
-snk: 
+snk: i debe n tinte ñani.
 
 ## Vie au village
 
 fr: Les femmes pilent le mil.
-snk: 
+snk: yaxaru m payi yille n golo.
 
 fr: Le chef du village a parlé.
-snk: 
+snk: debe gume m payi sefene.
 
 fr: Les hommes sont à la mosquée.
-snk: 
+snk: yigu m payi miside.
 
 fr: Nous avons récolté l'arachide.
-snk: 
+snk: o di tiga n duxuta.
 
 fr: Elle porte un seau d'eau sur la tête.
-snk: 
+snk: a di siwo ji ña tiŋa i yime ŋa
 
 fr: Les jeunes dansent ce soir.
-snk: 
+snk: yaxambanu ŋa regene lenki wuru.
 
 fr: Le marabout enseigne le Coran.
-snk: 
+snk: modi ŋa quraane xaraŋundini.
 
 fr: Il a plu toute la nuit.
-snk: 
+snk: a wuyi texe na.
 
 ## Voyage et ville
 
 fr: Je pars en voyage demain.
-snk: 
+snk: n tele saferi xumbane.
 
 fr: La voiture est en panne.
-snk: 
+snk: woto ke bono ya.
 
 fr: Combien coûte le billet ?
-snk: 
+snk: billet ke jonko ni mani me ?
 
 fr: La route est mauvaise.
-snk: 
+snk: kile ke maniante niani.
 
 fr: Il est rentré de France.
-snk: 
+snk: a giri Franci banga
 
 fr: Je cherche la maison de Samba.
-snk: 
+snk: ni samba ka nia murunu.
 
 fr: Nous sommes arrivés à Dakar le soir.
-snk: 
+snk: o joofe dakaru wuro nia.
 
 fr: Envoie-moi de l'argent.
-snk: 
+snk: xalisi xayi n danga.
 
 ## Fêtes et vie sociale
 
 fr: Bonne fête.
-snk: 
+snk: kebire waaga.
 
 fr: Que Dieu te bénisse.
-snk: 
+snk: Allah gana n mbaraje xeri.
 
 fr: Mes condoléances.
-snk: 
+snk: o yi duwana xa danga.
 
 fr: Ils se sont mariés hier.
-snk: 
+snk: i yexime daaru.
 
 fr: Un enfant est né ce matin.
-snk: 
+snk: lemina sare lenki suxuba.
 
 fr: Nous avons tué un mouton pour la fête.
-snk: 
+snk: o di jaxe xurisi do siyinde ke.
 
 fr: Salue ta mère pour moi.
-snk: 
+snk: a na ma kugni ndaga.
 
 fr: Merci beaucoup.
-snk: 
+snk: nawrari ando baraje
